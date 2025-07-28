@@ -3,7 +3,7 @@ Herramienta de análisis de directorios para desarrolladores que permite inspecc
 
 # Folder Insight
 
-![App Screenshot](screenshot.png) 
+![App Screenshot](ResportesParaDeveloper_kZ4Kf87XVa.png) 
 
 Herramienta de análisis de directorios para desarrolladores que permite inspeccionar la estructura de carpetas, filtrar por extensiones y generar reportes detallados del contenido.
 
